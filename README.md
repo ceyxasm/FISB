@@ -12,6 +12,11 @@ The repo presents feature-based image stitching algorithms for creating panorami
 * `sub` has 49 folders containing sub-images of the scenes in `super`
 * the sub-images are of varrying view-points, perspective, device, camera orientation and illumination
 
+![scene_9](images/scene_9.jpeg)
+`scene_9.png`
+![sub_scene_9](images/sub_scene_9.png)
+`sub-images of scene 9`
+
 
 ### Contributors
 > Abhishek Rajora rajora.1@iitj.ac.in ;  Github: [brillard1](https://github.com/brillard1)
