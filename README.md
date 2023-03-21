@@ -72,7 +72,7 @@ Lets compare different blending results on `scene_10`
 ![Result given by OpenCV](./images/opencv_10.jpeg)
 ##### Result given by OpenCV
 
-* For more comprehensive analysis and comparison, refer to [report]()
+* For more comprehensive analysis and comparison, refer to [report](./B20CS002_B20CS003_FISB_Report.pdf)
 
 ---
 
