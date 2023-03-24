@@ -3,7 +3,9 @@ ___
 [Report](./B20CS002_B20CS003_FISB_Report.pdf) | [Demo-video](https://youtu.be/hbBockxgOn4) | [Dataset](./fisb_dataset/) | [Presentation](FISB-ppt.pdf)
 
 ## Introduction
+
 The repo presents feature-based image stitching algorithms for creating panoramic images from multiple input images. The proposed method involves feature extraction, matching, and blending stages. The Google Landmarks database and a custom dataset were used to evaluate the effectiveness of the proposed pipeline, which was measured using objective and subjective metrics, including accuracy, speed, and visual quality. The experimental results show that the proposed pipeline can effectively stitch images and produce seamless panoramas. The pipeline is scalable and can be used in various applications, such as surveillance, virtual reality, and cartography.
+
 ---
 ## Demo video
  [![yt](./images/youtube.jpeg)](https://youtu.be/hbBockxgOn4)
